@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Graduation App</string>
+    <string name="main">main</string>
+    <string name="catalog">catalog</string>
+    <string name="cart">cart</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="go_to_shop">Перейти в магазин</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="borrow_some_money">borrow some money</string>
+    <string name="you_haven_t_chosen_any_dress">you haven\'t chosen any dress</string>
+    <string name="choose_a_dress">choose a dress</string>
+
+</resources>
